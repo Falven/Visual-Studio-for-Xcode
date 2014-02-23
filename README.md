@@ -4,7 +4,7 @@ Visual-Studio-for-Xcode
 A [**Visual-Studio**]() theme for Xcode.
 
 ## Screenshot
-![Forced Update](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Visual Studio Screenshot") 
+![Forced Update](https://github.com/Falven/Visual-Studio-for-Xcode/blob/master/visualStudio.png?raw=true "Visual Studio Screenshot") 
 
 ## Installation
 - Copy the .dvtcolortheme file into: 
